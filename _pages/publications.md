@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 🧠 **Preprints & Under Review**
+### 📜 **Preprints & Under Review**
 
 - **A neural circuit framework for economic choice: from building blocks of valuation to compositionality in multitasking**  
   *Aldo Battista*, Camillo Padoa-Schioppa, Xiao-Jing Wang  
