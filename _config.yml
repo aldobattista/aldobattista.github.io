@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Dr. Aldo Battista"
 title_separator          : "-"
 name                     : &name "Aldo Battista"
-description              : &description "Swartz Fellow in Theoretical Neuroscience and Machine Learning"
+description              : &description "Research Scientist in Machine Learning"
 url                      : https://www.aldobattista.com #url                      : https://aldobattista.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "website_pic.png"
   name             : "Aldo Battista"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Swartz Fellow in Theoretical Neuroscience and AI"
+  bio              : "Research Scientist in Machine Learning"
   location         : "New York, NY, United States"
-  employer         : "New York University"
+  employer         : "Meta"
   uri              : # URL
-  email            : "aldo.battista@nyu.edu" 
+  email            : "abattista@meta.com" 
 
   # Academic websites
   academia         : # URL
