@@ -9,11 +9,11 @@ author_profile: true
 
 - **A neural circuit framework for economic choice: from building blocks of valuation to compositionality in multitasking**  
   *Aldo Battista*, Camillo Padoa-Schioppa, Xiao-Jing Wang  
-  [bioRxiv (2025)](https://www.biorxiv.org/content/10.1101/2025.03.13.643098v1) • Under review at *Neuron*
+  [bioRxiv (2025)](https://www.biorxiv.org/content/10.1101/2025.03.13.643098v2) • Under review at *Neuron*
 
 - **Bifurcation in space: emergence of function modularity in the neocortex**  
-  Xiao-Jing Wang, Junjie Jiang, Roxana Zeraati, Ulises Pereira-Obilinovic, *Aldo Battista*, Julien Vezoli, Henry Kennedy  
-  [bioRxiv (2024)](https://www.biorxiv.org/content/10.1101/2023.06.04.543639v2) • Under review at *Nature Neuroscience*
+  Xiao-Jing Wang, Junjie Jiang, Roxana Zeraati, *Aldo Battista*, Julien Vezoli, Henry Kennedy, Ulises Pereira-Obilinovic  
+  [bioRxiv (2025)](https://www.biorxiv.org/content/10.1101/2023.06.04.543639v3) • Under review at *Nature*
 
 ---
 

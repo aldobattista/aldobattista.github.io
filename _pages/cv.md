@@ -13,7 +13,7 @@ redirect_from:
 
 ## 💼 Work Experience
 
-**Incoming Research Scientist (Ph.D.) – Machine Learning**  
+**Research Scientist – Machine Learning**  
 Meta (Modern Recommender Systems AI), 2025–
 
 **Postdoctoral Researcher in NeuroAI**  
