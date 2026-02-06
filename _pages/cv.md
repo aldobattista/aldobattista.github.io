@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-📄 **[Download full CV (PDF)](/files/Aldo_Battista_CV.pdf)**
+📄 **[Download full CV (PDF)](/files/Aldo_Battista_CV_New.pdf)**
 
 ---
 
